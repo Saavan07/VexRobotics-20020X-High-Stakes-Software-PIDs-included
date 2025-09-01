@@ -175,6 +175,12 @@ This codebase contains complete **configuration**, **multi-loop PID controllers*
 
 ---
 
+## Demo Video
+#### Watch the video to see our best autonomous skills run at home and our state-winning skills runs at the Illinois State Championships 2025:
+[![Autonomous Route Demo](https://img.youtube.com/vi/EQBw6I2zAq8/0.jpg)](https://www.youtube.com/watch?v=EQBw6I2zAq8)
+
+---
+
 ### Autonomous Notes
 - **Only Slot 1 is fully enabled** in `autonomous()` by default.  
 - Slots 2–7 are left scaffolded/commented for easy switching.  
