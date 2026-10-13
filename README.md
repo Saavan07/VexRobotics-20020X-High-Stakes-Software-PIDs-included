@@ -1,6 +1,6 @@
-# VEX Robotics 2024–2025 “High Stakes” Software
+# VEX High Stakes
 
-End-of-season competition code for my VEX V5 robot.
+C++ competition control software for Velocity Robotics 20020X's VEX V5 robot during the 2024–2025 High Stakes season.
 
 This source snapshot contains robot configuration, drivetrain and arm PID controllers, driver controls, an active autonomous routine, additional commented routine scaffolds, and an error graph on the V5 Brain for tuning.
 
